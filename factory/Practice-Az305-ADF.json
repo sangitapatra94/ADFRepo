@@ -1,0 +1,9 @@
+{
+	"name": "Practice-Az305-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1ff52ab-1e18-4a92-a310-cb18f2e04b34",
+		"tenantId": "f8a8203a-cf06-48ec-819d-00f6f231c5ab"
+	}
+}
